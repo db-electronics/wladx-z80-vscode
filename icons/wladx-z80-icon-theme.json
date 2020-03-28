@@ -1,0 +1,13 @@
+{
+    "languageIds": {
+        "wladx-z80": "_sms_icon"
+    },
+    "fileExtensions": {
+        "z80": "_sms_icon"
+    },
+    "iconDefinitions": {
+        "_sms_icon": {
+            "iconPath": "./sms.png"
+        }
+    }
+}

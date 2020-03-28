@@ -36,6 +36,13 @@
 				"title": "Init Message"
 			}
 		],
+		"iconThemes": [
+			{
+			  "id": "wladx-z80",
+			  "label": "wladx-z80",
+			  "path": "./icons/wladx-z80-icon-theme.json"
+			}
+		],
 		"languages": [
 			{
 				"id": "wladx-z80",
