@@ -18,7 +18,7 @@
             "\tslotsize\t\\$4000",
             "\tslot\t\t0\t\\$0000",
             "\tslot\t\t1\t\\$4000",
-            "\tslot\t\t1\t\\$8000",
+            "\tslot\t\t2\t\\$8000",
             "\t ;ram area",
             "\tslotsize\t\\$2000",
             "\tslot\t\t3\t\\$C000",

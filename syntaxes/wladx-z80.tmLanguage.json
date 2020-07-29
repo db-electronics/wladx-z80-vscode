@@ -63,7 +63,7 @@
 				},
 				{
 					"name": "keyword.control.wladx-z80",
-					"match": "^\\s*(?i:(?:\\.(ds|dsb|dstruct|dsw|dsl|db|byt|dbm|sym|symbol|br|breakpoint|asciitable|asctable|enda|dw|word|addr)))\\b"
+					"match": "^\\s*(?i:(?:\\.(ds|dsb|dstruct|dsw|dsl|db|byt|dbm|sym|symbol|br|breakpoint|asc|asciitable|asctable|enda|dw|word|addr)))\\b"
 				},
 				{
 					"name": "keyword.control.wladx-z80",
